@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         appBar: AppBar(
-          title: Text('Random Jokes'),
+          title: Text('Random Jokes Generator'),
         ),
         body: Home(),
       ),
